@@ -8,3 +8,9 @@ Internship  - Machine Learning Track | Elevvo
 - Train a linear regression model to estimate final scores 
 - Visualize predictions and evaluate model performance
 
+- Task 2: Customer Segmentation Description:
+- Dataset (Recommended): Mall Customer [(Kaggle) ](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- Cluster customers into segments based on income and spending score
+- Perform scaling and visual exploration of groupings
+- Apply K-Means clustering and determine optimal number of clusters
+- Visualize clusters using 2D plots
